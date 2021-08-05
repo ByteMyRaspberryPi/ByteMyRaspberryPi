@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ByteMyRaspberryPi.
+- 👀 I’m interested in computer science and Minecraft.
+- 🌱 I’m currently learning Python and C.
